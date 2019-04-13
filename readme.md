@@ -1,6 +1,6 @@
 # Python REST API Example (With Microservices) 
 
-## Writing REST APIs with Python is an important skill for the microservices world. We'll start learning the steps with a basic class in this tutorial. 
+## Writing REST APIs with Python is an important skill for the microservices world. I'll start the steps with a basic class in this tutorial. 
 
 This is instructions on how to write REST APIs with Python for microservices.
 
@@ -113,7 +113,7 @@ The last bit of the code sets up a loop and runs the application on port 8888.
 
 
 
-## This is the third part of this series, where we will code the API endpoints.
+## This is the third step, where we will code the API endpoints.
 Our Python Rest API Example Code
 
 As stated earlier, this post is where we code the endpoint handlers for our microservice. The first handler we will code is the AddHandler class which we will use to add a book.
