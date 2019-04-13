@@ -187,12 +187,15 @@ $ python api.py
 ```
 Add a book:
 ```
-http://yourserver:8888/v1/addbook?title="How to Write Python programs for microservice"&author="Rongbing Miao"
+http://192.0.2.98:8888/v1/addbook?title="How to Write Python programs for microservice"&author="Rongbing Miao"
 ```
 List all the books:
 ```
 http://192.0.2.98:8888/v1/getbooks
 ```
+Output should look like: 
+![alt text](https://github.com/rbmiao/python_restapi/blob/master/list_book.png)
+
 Delete the same book:
 ```
 http://192.0.2.98:8888/v1/delbook?title="How to Write Python programs for microservice"
