@@ -1,6 +1,6 @@
-## Tornado Web API Example
 # Python REST API Example (With Microservices) 
-# Writing REST APIs with Python is an important skill for the microservices world. We'll start learning the steps with a basic class in this tutorial. 
+
+## Writing REST APIs with Python is an important skill for the microservices world. We'll start learning the steps with a basic class in this tutorial. 
 
 This is instructions on how to write REST APIs with Python for microservices.
 
@@ -113,7 +113,7 @@ The last bit of the code sets up a loop and runs the application on port 8888.
 
 
 
-This is the third part of this series, where we will code the API endpoints.
+## This is the third part of this series, where we will code the API endpoints.
 Our Python Rest API Example Code
 
 As stated earlier, this post is where we code the endpoint handlers for our microservice. The first handler we will code is the AddHandler class which we will use to add a book.
@@ -199,5 +199,5 @@ http://192.0.2.98:8888/v1/delbook?title="How to Write Python programs for micros
 ```
 There you go. A simple python Rest API example. In the future, I hope to expand on this example by adding a database backend, token security, and more. Subscribe to my newsletter to be notified of all my latest articles.
 
-All of this code is available on Github.
+All of this code is available on [Github](https://github.com/rbmiao/python_restapi).
 
